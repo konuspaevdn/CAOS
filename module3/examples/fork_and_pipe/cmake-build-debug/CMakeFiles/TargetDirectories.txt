@@ -1,0 +1,3 @@
+/home/donut/CAOS/module3/examples/fork_and_pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/donut/CAOS/module3/examples/fork_and_pipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/donut/CAOS/module3/examples/fork_and_pipe/cmake-build-debug/CMakeFiles/fork_and_pipe.dir

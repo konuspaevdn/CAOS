@@ -1,0 +1,3 @@
+/home/donut/CAOS/module4/task1-1/for_testing/cmake-build-debug/CMakeFiles/for_testing.dir
+/home/donut/CAOS/module4/task1-1/for_testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/donut/CAOS/module4/task1-1/for_testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

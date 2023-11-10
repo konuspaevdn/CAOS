@@ -1,0 +1,4 @@
+/home/donut/CAOS/module4/task5-0/cmake-build-debug/CMakeFiles/task5-0.dir
+/home/donut/CAOS/module4/task5-0/cmake-build-debug/CMakeFiles/matrix.dir
+/home/donut/CAOS/module4/task5-0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/donut/CAOS/module4/task5-0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

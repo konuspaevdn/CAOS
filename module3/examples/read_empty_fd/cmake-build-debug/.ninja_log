@@ -1,0 +1,5 @@
+# ninja log v5
+0	12	1645299633727833613	CMakeFiles/read_empty_file.dir/main.c.o	76b0ffff3dab081f
+12	24	1645299633739833765	read_empty_file	40d4c44073675337
+0	12	1645299771053370120	CMakeFiles/read_empty_file.dir/main.c.o	76b0ffff3dab081f
+12	23	1645299771065370238	read_empty_file	40d4c44073675337

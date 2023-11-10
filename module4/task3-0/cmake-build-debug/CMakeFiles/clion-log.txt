@@ -1,0 +1,5 @@
+/snap/clion/189/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/189/bin/ninja/linux/ninja -G Ninja -S /home/donut/CAOS/module4/task3-0 -B /home/donut/CAOS/module4/task3-0/cmake-build-debug
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2") found components: Crypto 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/donut/CAOS/module4/task3-0/cmake-build-debug

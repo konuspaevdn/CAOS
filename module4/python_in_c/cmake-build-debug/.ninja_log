@@ -1,0 +1,9 @@
+# ninja log v5
+0	51	1653147956966490735	CMakeFiles/python_in_c.dir/main.c.o	52cbb7692cac4b8b
+51	69	1653147956982490599	python_in_c	5c7f4e8866ea0c4
+0	46	1653147992498189162	CMakeFiles/python_in_c.dir/main.c.o	52cbb7692cac4b8b
+46	61	1653147992514189027	python_in_c	5c7f4e8866ea0c4
+0	52	1653149085820910121	CMakeFiles/python_in_c.dir/main.c.o	52cbb7692cac4b8b
+52	67	1653149085836909985	python_in_c	5c7f4e8866ea0c4
+1	51	1653149417253443483	CMakeFiles/python_in_c.dir/main.c.o	52cbb7692cac4b8b
+51	66	1653149417269451719	python_in_c	5c7f4e8866ea0c4

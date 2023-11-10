@@ -1,0 +1,11 @@
+errors.c: In function ‘main’:
+errors.c:5:19: warning: division by zero [-Wdiv-by-zero]
+    5 |         int a = 3 / 0; printf("%s", foo); int b = 4 / 0;
+      |                   ^
+errors.c:5:37: error: ‘foo’ undeclared (first use in this function)
+    5 |         int a = 3 / 0; printf("%s", foo); int b = 4 / 0;
+      |                                     ^~~
+errors.c:5:37: note: each undeclared identifier is reported only once for each function it appears in
+errors.c:5:53: warning: division by zero [-Wdiv-by-zero]
+    5 |         int a = 3 / 0; printf("%s", foo); int b = 4 / 0;
+      |             
